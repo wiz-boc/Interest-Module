@@ -1,0 +1,9 @@
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\bin\Debug\InterestModuleDataControl.dll
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\bin\Debug\InterestModuleDataControl.pdb
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\bin\Debug\Dapper.dll
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\bin\Debug\Dapper.xml
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\obj\Debug\InterestModuleDataControl.csproj.AssemblyReference.cache
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\obj\Debug\InterestModuleDataControl.csproj.CoreCompileInputs.cache
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\obj\Debug\InterestModuleDataControl.csproj.CopyComplete
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\obj\Debug\InterestModuleDataControl.dll
+C:\Users\kenroyg\Documents\Assessment\InterestMaintenanceFiles\InterestMaintenanceApp\InterestModuleDataControl\obj\Debug\InterestModuleDataControl.pdb
